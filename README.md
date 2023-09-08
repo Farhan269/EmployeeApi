@@ -9,3 +9,7 @@ Here 7 API is created -
 6. Get monthly attendance report of all employee
 7. Get a hierarchy from an employee based on his supervisor.
 
+## Here is the output video
+
+https://github.com/Farhan269/EmployeeApi/assets/82305837/52e45a3f-265a-4e81-837b-6d5d2f2ca99c
+
